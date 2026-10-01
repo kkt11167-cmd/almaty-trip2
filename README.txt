@@ -1,0 +1,1 @@
+기존 앱의 사진 파일을 이 폴더에 그대로 넣으세요. bigalmaty.jpg, zenkov.jpg, medeu2.jpg, almatynight.jpg, altyn2.jpg, dune2.jpg, kaindy.jpg, charyn.jpg, kolsai.jpg

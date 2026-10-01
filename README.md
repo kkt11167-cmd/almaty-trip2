@@ -1,0 +1,1 @@
+# almaty-trip2
